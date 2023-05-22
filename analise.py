@@ -1,0 +1,1 @@
+#tomar em conta todas as atividades que consideram modelagem matematica
